@@ -1,4 +1,9 @@
-# sudoku-solver
+# Update Sudoku Gamer
+
+![](https://github.com/ingkilber/Gamer-Sudoku-2/blob/main/Sudoku-Gamer.png)
+
+
+
 A project to learn how to use APIs in JavaScript and NodeJS
 
 Please follow along here to build this project: https://youtu.be/F1vKV8fR1Os
