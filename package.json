@@ -1,0 +1,33 @@
+{
+  "name": "react-sudoku",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://github.com/ingkilber/Sudoku-Gamer",
+  "dependencies": {
+    "d3": "^4.13.0",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2",
+    "react-scripts": "^3.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubat or/create-react-app).",
+  "main": "src/index.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^1.2.0"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
